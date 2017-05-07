@@ -1,0 +1,3 @@
+rootProject.name = 'ProjectMVT'
+
+include ':app'
